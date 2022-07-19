@@ -1,0 +1,15 @@
+.my-profile {
+  width: 300px;
+  height: 200px;
+  align-content: left;
+  border-width: 3px;
+}
+
+.NP {
+  text-decoration: solid;
+  text-shadow: none;
+  text-orientation: sideways-right;
+  text-align: left;
+  text-overflow: clip;
+  text-decoration-color: blue;
+}
